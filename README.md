@@ -10,23 +10,21 @@ Pinned here for easy access and transparency. 🚀
 ## 📂 Categories
 
 ### 🎓 Internship Certificates
-- [Matrix Robotics](Certificates/Matrix%20Robotics%20Internship.pdf)
-- [Vidya Innovate](Certificates/Vidya%20Innovative%20Offer%20Letter.pdf)
-  | Certificate | Preview |
-|-------------|---------|
-| InternPe | ![InternPe](Certificates/InternPe%20Internship.png) |
+- [Matrix Robotics](Matrix%20Robotics%20Internship.pdf)
+- [Vidya Innovate](Vidya%20Innovative%20Offer%20Letter.pdf)
+
 
 
 ### 💻 Tech Course Certificates
-- [UIUX Design](certificates/UIUX Udemy.pdf)
-- [Blockchain and Cryptocurrancy](Certificates/Blockchain%20and%20Cryptocurrancy.pdf)
-- [Web Design](Certificates/Web%20Design%20Udemy.pdf)
-- [Website with Wordpress](Certificates/Website%20With%20Wordpress%20Certificate.pdf)
+- [UIUX Design](UIUX%20Udemy.pdf)
+- [Blockchain and Cryptocurrancy](Blockchain%20and%20Cryptocurrancy.pdf)
+- [Web Design](Web%20Design%20Udemy.pdf)
+- [Website with Wordpress](Website%20With%20Wordpress%20Certificate.pdf)
 
 
 ### 🌟 Other Achievements
-- [Workshop on Web Development](Certificates/GDGC.WebDevlopment.pdf)
-- [Hackathon](Certificates/Nutan%20Sunhacks%202k24.pdf)
+- [Workshop on Web Development](GDGC.WebDevlopment.pdf)
+- [Hackathon](/Nutan%20Sunhacks%202k24.pdf)
 ---
 
 
