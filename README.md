@@ -6,7 +6,7 @@ Pinned here for easy access and transparency.
 
 ---  
  
-## 📂 Categories
+## 📂 Categories 
 
 ### 🎓 Internship Certificates 
 - Matrix Robotics Internship  
