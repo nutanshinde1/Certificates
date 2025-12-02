@@ -5,7 +5,7 @@ This repo is a showcase of my achievements, courses, workshops, and skill-buildi
 Pinned here for easy access and transparency.
 
 ---   
- 
+  
 ## 📂 Categories 
 
 ### 🎓 Internship Certificates 
