@@ -9,7 +9,7 @@ Pinned here for easy access and transparency.
 ## 📂 Categories 
 
 ### 🎓 Internship Certificates 
-- Matrix Robotics Internship  
+- Matrix Robotics Internship   
 - Vidya Innovate Internship  
 - InternPe Internship  
 
