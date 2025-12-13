@@ -15,7 +15,7 @@ Pinned here for easy access and transparency.
 
 ### 💻 Tech Course Certificates
 - UI/UX Design  
-- Blockchain and Cryptocurrency  
+- Blockchain and Cryptocurrency   
 - Web Design  
 - Website Development with WordPress  
 - Java Programming  
