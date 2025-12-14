@@ -19,7 +19,7 @@ Pinned here for easy access and transparency.
 - Web Design  
 - Website Development with WordPress  
 - Java Programming  
-- Linux Systems  
+- Linux Systems   
 - MongoDB  
 - Artificial Intelligence with Python (JARVIS AI)  
 
