@@ -11,7 +11,7 @@ Pinned here for easy access and transparency.
 ### 🎓 Internship Certificates   
 - Matrix Robotics Internship   
 - Vidya Innovate Internship  
-- InternPe Internship  
+- InternPe Internship   
 
 ### 💻 Tech Course Certificates
 - UI/UX Design  
